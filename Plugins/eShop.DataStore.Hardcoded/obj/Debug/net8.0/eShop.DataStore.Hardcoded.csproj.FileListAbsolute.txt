@@ -1,0 +1,36 @@
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.Hardcoded.deps.json
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.Hardcoded.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.UseCases.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.UseCases.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.csproj.AssemblyReference.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.AssemblyInfoInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.AssemblyInfo.cs
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.csproj.CoreCompileInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.csproj.CopyComplete
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\refint\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eCommerceApp\eShop.DataStore.Hardcoded\obj\Debug\net8.0\ref\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.Hardcoded.deps.json
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.Hardcoded.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.UseCases.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.UseCases.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.csproj.AssemblyReference.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.AssemblyInfoInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.AssemblyInfo.cs
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.csproj.CoreCompileInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.csproj.CopyComplete
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\refint\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\eShop.DataStore.Hardcoded.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\obj\Debug\net8.0\ref\eShop.DataStore.Hardcoded.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.pdb

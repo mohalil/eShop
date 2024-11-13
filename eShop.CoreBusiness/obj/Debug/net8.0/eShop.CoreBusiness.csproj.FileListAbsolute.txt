@@ -1,0 +1,22 @@
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\bin\Debug\net8.0\eShop.CoreBusiness.deps.json
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\bin\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\bin\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.AssemblyInfo.cs
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\refint\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\eShop.CoreBusiness\obj\Debug\net8.0\ref\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\bin\Debug\net8.0\eShop.CoreBusiness.deps.json
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\bin\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\bin\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.AssemblyInfo.cs
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\refint\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.CoreBusiness\obj\Debug\net8.0\ref\eShop.CoreBusiness.dll

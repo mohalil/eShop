@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = eShop.DataStore.Hardcoded
+build_property.ProjectDir = C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

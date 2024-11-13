@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Vprv+LZzWCTbXOhsncaoodbZN/j8iGmYjtn1vwR3y58=",
+  "Source": "eShop.Web.CustomerPortal",
+  "BasePath": "_content/eShop.Web.CustomerPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "eShop.Web.CustomerPortal\\wwwroot",
+      "Source": "eShop.Web.CustomerPortal",
+      "ContentRoot": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\",
+      "BasePath": "_content/eShop.Web.CustomerPortal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
+      "SourceId": "eShop.Web.CustomerPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\",
+      "BasePath": "_content/eShop.Web.CustomerPortal",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "eShop.Web.CustomerPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\",
+      "BasePath": "_content/eShop.Web.CustomerPortal",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\styles.css",
+      "SourceId": "eShop.Web.CustomerPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\",
+      "BasePath": "_content/eShop.Web.CustomerPortal",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
