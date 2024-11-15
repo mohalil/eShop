@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kyZHwmGt1ZB21UGhaKxMb2zvgIskQEvXbvi1CpUnFSCwBo/2Ztqc3ANKK9BEyWA2+b9Fml7hNw/NeSNXBp7mCA==",
+  "dgSpecHash": "4cO9i6S2BH4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj",
+  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

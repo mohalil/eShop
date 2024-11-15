@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
+      "Id": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
     },
     {
-      "Id": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\exampleJsInterop.js",
+      "Id": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {
-      "Id": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\styles.css",
+      "Id": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\wwwroot\\styles.css",
       "PackagePath": "staticwebassets\\styles.css"
     },
     {
@@ -23,6 +23,10 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eShop.Web.CustomerPortal.props",
       "PackagePath": "buildTransitive\\eShop.Web.CustomerPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eShop.Web.CustomerPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eShop.Web.CustomerPortal.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -13,3 +13,19 @@ C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\e
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\refint\eShop.DataStore.SQL.Dapper.dll
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.pdb
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\ref\eShop.DataStore.SQL.Dapper.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.deps.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.sourcelink.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.Da.95D09FE6.Up2Date
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\refint\eShop.DataStore.SQL.Dapper.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\eShop.DataStore.SQL.Dapper.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net8.0\ref\eShop.DataStore.SQL.Dapper.dll

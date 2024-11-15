@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\": {}
+    "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
       "projectName": "eShop.CoreBusiness",
-      "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+      "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
       "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\obj\\",
+      "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -61,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

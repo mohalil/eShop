@@ -1,0 +1,4 @@
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net8.0\staticwebassets.build.json

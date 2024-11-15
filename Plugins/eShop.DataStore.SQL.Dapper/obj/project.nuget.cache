@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcwApvC2ZqvGanzNHThafaeuU8yfN14SOUkI74y1vTXzgIDrA+9pgJUs99Ob5j16NZPWFZKIfGOCNPQx0O50ug==",
+  "dgSpecHash": "fBfsdnFGU3E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj",
+  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

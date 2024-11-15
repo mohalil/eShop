@@ -9,67 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = eShop.Web.CustomerPortal
 build_property.RootNamespace = eShop.Web.CustomerPortal
-build_property.ProjectDir = C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\
+build_property.ProjectDir = C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal
+build_property.MSBuildProjectDirectory = C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Component1.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/CartComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/CartComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcQ2FydENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/CustomerFormComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/CustomerFormComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcQ3VzdG9tZXJGb3JtQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/LineItemComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/LineItemComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcTGluZUl0ZW1Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/OrderSummaryComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/OrderSummaryComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcT3JkZXJTdW1tYXJ5Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/ProductCardComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/ProductCardComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdENhcmRDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/ProductItemComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/ProductItemComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdEl0ZW1Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/SearchBarComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Controls/SearchBarComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcU2VhcmNoQmFyQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/OrderConfirmationComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/OrderConfirmationComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJDb25maXJtYXRpb25Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/PlaceOrderComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/PlaceOrderComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhY2VPcmRlckNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/SearchProductComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/SearchProductComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoUHJvZHVjdENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/ShoppingCartComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/ShoppingCartComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/ViewProductComponent.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/Pages/ViewProductComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Byb2R1Y3RDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mohalil.naikwadi/Documents/Personal Projects/Blazor eCommerce Project/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/_Imports.razor]
+[C:/Users/mohalil.naikwadi/source/repos/mohalil/eShop/eShop.Web.Modules/eShop.Web.CustomerPortal/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

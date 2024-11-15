@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nK2VDTDUAyusi9OyYfDRhTrtfvC+D/DrDNhTolYkYmThqV55n3jquoBtS5/ljRn7SJwgji5GTP9XDcIwLJ+d1Q==",
+  "dgSpecHash": "GjVCuD2oKOY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj",
+  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

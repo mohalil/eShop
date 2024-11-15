@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = eShop.DataStore.Hardcoded
-build_property.ProjectDir = C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.DataStore.Hardcoded\
+build_property.ProjectDir = C:\Users\mohalil.naikwadi\Source\Repos\mohalil\eShop\Plugins\eShop.DataStore.Hardcoded\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

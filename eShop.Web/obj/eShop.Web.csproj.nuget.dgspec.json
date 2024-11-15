@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web\\eShop.Web.csproj": {}
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web\\eShop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
         "projectName": "eShop.CoreBusiness",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -55,21 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj",
         "projectName": "eShop.UseCases",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,11 +97,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj"
               }
             }
           }
@@ -96,7 +110,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -117,21 +137,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj",
         "projectName": "eShop.Web.AdminPortal",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -145,14 +169,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj"
               }
             }
           }
@@ -161,7 +185,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -192,21 +222,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj",
         "projectName": "eShop.Web.Common",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\eShop.Web.Common.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -226,7 +260,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -253,21 +293,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj",
         "projectName": "eShop.Web.CustomerPortal",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -281,8 +325,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
               }
             }
           }
@@ -291,7 +335,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -322,21 +372,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web\\eShop.Web.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web\\eShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web\\eShop.Web.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web\\eShop.Web.csproj",
         "projectName": "eShop.Web",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web\\eShop.Web.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web\\eShop.Web.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -350,26 +404,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\eShop.Web.AdminPortal.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\eShop.Web.CustomerPortal.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj"
               }
             }
           }
@@ -378,7 +432,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -402,21 +462,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj",
         "projectName": "eShop.DataStore.Hardcoded",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\eShop.DataStore.Hardcoded.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.Hardcoded\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -430,11 +494,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
               },
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
               }
             }
           }
@@ -443,7 +507,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -464,21 +534,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj",
         "projectName": "eShop.DataStore.SQL.Dapper",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\eShop.DataStore.SQL.Dapper.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -492,8 +566,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.CoreBusiness\\eShop.CoreBusiness.csproj"
               }
             }
           }
@@ -502,7 +576,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -533,21 +613,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj",
         "projectName": "eShop.ShoppingCart.LocalStorage",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -561,8 +645,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
               }
             }
           }
@@ -571,7 +655,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -606,21 +696,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj": {
+    "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj",
+        "projectUniqueName": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj",
         "projectName": "eShop.StateStore.DI",
-        "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj",
+        "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\eShop.StateStore.DI.csproj",
         "packagesPath": "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.StateStore.DI\\obj\\",
+        "outputPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.StateStore.DI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\mohalil.naikwadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -634,8 +728,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
-                "projectPath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
+              "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj": {
+                "projectPath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.UseCases\\eShop.UseCases.csproj"
               }
             }
           }
@@ -644,7 +738,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -665,7 +765,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

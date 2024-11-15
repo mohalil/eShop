@@ -383,7 +383,10 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "eShop.CoreBusiness/1.0.0": {
         "runtime": {
-          "eShop.CoreBusiness.dll": {}
+          "eShop.CoreBusiness.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.DataStore.SQL.Dapper/1.0.0": {
@@ -393,7 +396,10 @@
           "eShop.CoreBusiness": "1.0.0"
         },
         "runtime": {
-          "eShop.DataStore.SQL.Dapper.dll": {}
+          "eShop.DataStore.SQL.Dapper.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

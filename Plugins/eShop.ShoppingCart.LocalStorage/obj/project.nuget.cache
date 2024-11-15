@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hVMrWpt9z1i2yfb6Q1gD9UQcvhLO0CM1iJHhMiirO/3x02oSA7kx+gNaXHEYmly7Kfl1RvP4zptqztAAaS321g==",
+  "dgSpecHash": "vM2RKjZ7JBk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj",
+  "projectFilePath": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\Plugins\\eShop.ShoppingCart.LocalStorage\\eShop.ShoppingCart.LocalStorage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mohalil.naikwadi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

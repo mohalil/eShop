@@ -26,3 +26,36 @@ C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\e
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\ref\eShop.ShoppingCart.LocalStorage.dll
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.dll
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.staticwebassets.endpoints.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.deps.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.CoreBusiness.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.UseCases.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.UseCases.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.CoreBusiness.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\bin\Debug\net8.0\eShop.DataStore.SQL.Dapper.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.sourcelink.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.Sh.446F861E.Up2Date
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\refint\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.pdb
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\ref\eShop.ShoppingCart.LocalStorage.dll

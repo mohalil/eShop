@@ -494,7 +494,10 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "eShop.CoreBusiness/1.0.0": {
         "runtime": {
-          "eShop.CoreBusiness.dll": {}
+          "eShop.CoreBusiness.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.DataStore.Hardcoded/1.0.0": {
@@ -503,7 +506,10 @@
           "eShop.UseCases": "1.0.0"
         },
         "runtime": {
-          "eShop.DataStore.Hardcoded.dll": {}
+          "eShop.DataStore.Hardcoded.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.DataStore.SQL.Dapper/1.0.0": {
@@ -513,7 +519,10 @@
           "eShop.CoreBusiness": "1.0.0"
         },
         "runtime": {
-          "eShop.DataStore.SQL.Dapper.dll": {}
+          "eShop.DataStore.SQL.Dapper.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.ShoppingCart.LocalStorage/1.0.0": {
@@ -524,7 +533,10 @@
           "eShop.UseCases": "1.0.0"
         },
         "runtime": {
-          "eShop.ShoppingCart.LocalStorage.dll": {}
+          "eShop.ShoppingCart.LocalStorage.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.StateStore.DI/1.0.0": {
@@ -532,7 +544,10 @@
           "eShop.UseCases": "1.0.0"
         },
         "runtime": {
-          "eShop.StateStore.DI.dll": {}
+          "eShop.StateStore.DI.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.UseCases/1.0.0": {
@@ -541,7 +556,10 @@
           "eShop.DataStore.SQL.Dapper": "1.0.0"
         },
         "runtime": {
-          "eShop.UseCases.dll": {}
+          "eShop.UseCases.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.Web.AdminPortal/1.0.0": {
@@ -553,7 +571,10 @@
           "eShop.Web.Common": "1.0.0"
         },
         "runtime": {
-          "eShop.Web.AdminPortal.dll": {}
+          "eShop.Web.AdminPortal.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.Web.Common/1.0.0": {
@@ -561,7 +582,10 @@
           "Microsoft.AspNetCore.Components.Web": "8.0.0"
         },
         "runtime": {
-          "eShop.Web.Common.dll": {}
+          "eShop.Web.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "eShop.Web.CustomerPortal/1.0.0": {
@@ -571,7 +595,10 @@
           "eShop.UseCases": "1.0.0"
         },
         "runtime": {
-          "eShop.Web.CustomerPortal.dll": {}
+          "eShop.Web.CustomerPortal.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

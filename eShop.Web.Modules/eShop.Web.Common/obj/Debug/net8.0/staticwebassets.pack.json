@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eShop.Web.Common.bundle.scp.css",
-      "PackagePath": "staticwebassets\\eShop.Web.Common.bundle.scp.css"
+      "Id": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eShop.Web.Common.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eShop.Web.Common.q369cgc3vj.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\background.png",
+      "Id": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\background.png",
       "PackagePath": "staticwebassets\\background.png"
     },
     {
-      "Id": "C:\\Users\\mohalil.naikwadi\\Documents\\Personal Projects\\Blazor eCommerce Project\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+      "Id": "C:\\Users\\mohalil.naikwadi\\source\\repos\\mohalil\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
     {
@@ -23,6 +23,10 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eShop.Web.Common.props",
       "PackagePath": "buildTransitive\\eShop.Web.Common.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props",
