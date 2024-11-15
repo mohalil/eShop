@@ -53,7 +53,6 @@ C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.Sh.446F861E.Up2Date
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\eShop.ShoppingCart.LocalStorage.dll
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Debug\net8.0\refint\eShop.ShoppingCart.LocalStorage.dll

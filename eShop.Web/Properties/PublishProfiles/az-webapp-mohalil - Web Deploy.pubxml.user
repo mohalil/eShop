@@ -6,6 +6,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAczW4MMOur0m2oRcxoQ1X+QAAAAACAAAAAAAQZgAAAAEAACAAAAByx8Ic9nsZ0/SpnQx0vBLVVJY7X/JR644IoiYAkXd3XQAAAAAOgAAAAAIAACAAAABInxYCg1IH3nbrxRT04lS3n2yM6lMfME8H2u/r8XQTuyAAAAC97H23UMI2oZ+4lDBfwNvb4SqwCY3OULSBgx+EDwQEFEAAAACY6LLKOL2sZXl0FpsXh2w6eTs2+rWScu0e9PE/en1iHzdU1BNWCcmHhJCSKFNQF/TV9rQSZUnukQELGFHbcz4S</EncryptedPassword>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAczW4MMOur0m2oRcxoQ1X+QAAAAACAAAAAAAQZgAAAAEAACAAAAB8PffsQi8ma5uEefZZ4Wuw7wCWQKjC86MWotC9+Q18HwAAAAAOgAAAAAIAACAAAABiX6HeWhYcZMgvXYci4wE7xL+5q+BdGza9MXf4LJ1VrCAAAADmUxnbdAQ4VOl9jPJ3zo/Xio84I+WJRMam8rNMmsVk9UAAAABMJApsqlczQgL6d9qoVAleBvL8jTcSOdGsod0FcPLCWG1FXY2Ci2GkWmqlQU+fPCTimTDWNHJqGSAMSaDPQPpM</EncryptedPassword>
+    <History>True|2024-11-15T15:48:11.9303325Z||;False|2024-11-15T21:07:05.2489901+05:30||;</History>
+    <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Data Source=AP-JYXRVF2%3bInitial Catalog=eShop%3bUser ID=sa%3bPassword=%2a%2a%2a%2a%2a%2a%2a%2a%3bConnect Timeout=30%3bEncrypt=True%3bTrust Server Certificate=True%3bApplication Intent=ReadWrite%3bMulti Subnet Failover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>

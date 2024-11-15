@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2b+FHKQ8bxPjrzu7rScB+00tvUAS+Sx2ulJqDnsmvbY=",
+  "Hash": "tCrRpIkRADQZuqEPGnXn7FZCdof1bmWko//JRqVuQHM=",
   "Source": "eShop.Web.AdminPortal",
   "BasePath": "_content/eShop.Web.AdminPortal",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "eShop.Web.Common",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
@@ -293,7 +293,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:18 GMT"
         }
       ],
       "EndpointProperties": [
@@ -330,7 +330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:18 GMT"
         }
       ],
       "EndpointProperties": [
@@ -539,7 +539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 15 Nov 2024 14:43:07 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:26 GMT"
         },
         {
           "Name": "Link",
@@ -588,7 +588,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 15 Nov 2024 14:43:07 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:26 GMT"
         },
         {
           "Name": "Link",

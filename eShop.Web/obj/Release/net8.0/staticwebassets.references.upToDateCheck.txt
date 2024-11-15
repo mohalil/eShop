@@ -1,0 +1,16 @@
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.CustomerPortal\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\Plugins\eShop.ShoppingCart.LocalStorage\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Release\net8.0\staticwebassets.build.json

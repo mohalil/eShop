@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2024-11-15T15:36:07.6611044Z"
+    }
+  },
+  "parameters": {
+    "signalr1.serviceConnectorResourceGroupName": {
+      "Name": "signalr1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az-first-resource-grp"
+    },
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az-first-resource-grp"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "acff85d7-a0cb-40f4-9a2e-756c85314eb5"
+    }
+  }
+}

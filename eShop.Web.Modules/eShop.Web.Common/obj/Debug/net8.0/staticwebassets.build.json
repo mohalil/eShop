@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uNkUn220SNQqe1QLZ5152JeYazXn6VEefSQMm6fMHcM=",
+  "Hash": "jnzA2IjcBHKD6XkaXc4Tu3iadpgp0U+De5DNvxbAduU=",
   "Source": "eShop.Web.Common",
   "BasePath": "_content/eShop.Web.Common",
   "Mode": "Default",
@@ -207,7 +207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -244,7 +244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -289,7 +289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -334,7 +334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 15:31:18 GMT"
         },
         {
           "Name": "Cache-Control",

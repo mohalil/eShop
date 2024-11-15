@@ -1,1 +1,3 @@
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net8.0\staticwebassets.build.json
