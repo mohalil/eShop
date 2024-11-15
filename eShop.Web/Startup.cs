@@ -62,7 +62,7 @@ namespace eShop.Web
             services.AddScoped<IShoppingCart, eShop.ShoppingCart.LocalStorage.ShoppingCart>();
             services.AddScoped<IShoppingCartStateStore, ShoppingCartStateStore>();
 
-            services.AddTransient<IDataAccess>(sp => new DataAccess(Configuration.GetConnectionString("Default")));
+            services.AddTransient<IDataAccess>(sp => new DataAccess(Configuration.GetConnectionString("AzureSQLConnection")));
             services.AddTransient<DataStore.SQL.Dapper.IProductRepository, ProductRepository>();
             services.AddTransient<DataStore.SQL.Dapper.IOrderRepository, OrderRepository>();
 

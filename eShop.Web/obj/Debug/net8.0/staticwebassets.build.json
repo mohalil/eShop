@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CzdIZJgbwiOMZbn2zUC3jDcHe4bFtnNGkROmwqJwnpM=",
+  "Hash": "WX41ffi+aF/dzpYnQklQw8UvPvepDVTwL3XxWlX19WE=",
   "Source": "eShop.Web",
   "BasePath": "_content/eShop.Web",
   "Mode": "Default",
@@ -1135,7 +1135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 21:06:31 GMT"
         }
       ],
       "EndpointProperties": [
@@ -1172,7 +1172,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 13 Nov 2024 12:27:05 GMT"
+          "Value": "Fri, 15 Nov 2024 21:06:31 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2529,7 +2529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 15 Nov 2024 14:43:15 GMT"
+          "Value": "Fri, 15 Nov 2024 21:06:41 GMT"
         },
         {
           "Name": "Link",
@@ -2578,7 +2578,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 15 Nov 2024 14:43:15 GMT"
+          "Value": "Fri, 15 Nov 2024 21:06:41 GMT"
         },
         {
           "Name": "Link",

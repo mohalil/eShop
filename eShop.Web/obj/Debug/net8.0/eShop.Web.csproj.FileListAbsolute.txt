@@ -97,8 +97,6 @@ C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\e
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.Web\obj\Debug\net8.0\eShop.Web.pdb
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.Web\obj\Debug\net8.0\eShop.Web.genruntimeconfig.cache
 C:\Users\mohalil.naikwadi\Documents\Personal Projects\Blazor eCommerce Project\eShop\eShop.Web\obj\Debug\net8.0\ref\eShop.Web.dll
-C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\appsettings.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.Common.staticwebassets.runtime.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.Common.staticwebassets.endpoints.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
@@ -107,6 +105,8 @@ C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.CustomerPortal.staticwebassets.endpoints.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.ShoppingCart.LocalStorage.staticwebassets.endpoints.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\appsettings.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.staticwebassets.runtime.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.staticwebassets.endpoints.json
 C:\Users\mohalil.naikwadi\source\repos\mohalil\eShop\eShop.Web\bin\Debug\net8.0\eShop.Web.exe
